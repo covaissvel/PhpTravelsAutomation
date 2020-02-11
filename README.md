@@ -1,2 +1,2 @@
 # PhpTravelsAutomation
-This project consists of automation scripts for phptravels.net website
+This project consists of automation scripts for phptravels.net website(in progress)
